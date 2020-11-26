@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I'm currently working on this exact profile readme,
+it will worth waiting, see u soon.. 
 <!--
 **pini236/pini236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
